@@ -24,8 +24,8 @@ The static comp challenge is a challenge to keep you working that HTML/CSS muscl
 ### Learning Goals:
 
 - Practice HTML & CSS
-- Recreate a comp with a similar layout.
+- Recreate a comp with a similar layout
 
 ### Wins + Challenges:
 
-- Always love practicing CSS but still find it kind of spicy.
+- Always love practicing CSS but still find it kind of spicy
