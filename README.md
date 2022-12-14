@@ -10,9 +10,9 @@ The static comp challenge is a challenge to keep you working that HTML/CSS muscl
 
 ### Preview of App:
 
+![static-comp-challenge-2](https://user-images.githubusercontent.com/108428451/207728946-3987fe86-18ea-489d-bc8f-317bd4dafef0.jpeg)
 
-
-
+![Dec-14-2022 16-36-25](https://user-images.githubusercontent.com/108428451/207730229-ff3c68d4-70bd-4b87-8a68-0aa2c253fbcf.gif)
 
 ### Contributors:
 
