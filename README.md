@@ -1,7 +1,7 @@
 # Static-Comp
 ### Abstract:
 
-The static comp challenge is a challenge to keep you working that HTML/CSS muscle. :muscle: You’ll choose one static comp and to recreate. Don’t worry, we’ll give you a bit of creative license, however the objective is to build something that respects the integrity of the original design. Once you get into the workforce - building out comps that reflect the designer’s choice in layout, spacing, font, imagery, and color to the smallest detail is a requirement.
+The static comp challenge is a challenge to keep you working that HTML/CSS muscle. :muscle: Don’t worry, we’ll give you a bit of creative license, however the objective is to build something that respects the integrity of the original design. Once you get into the workforce - building out comps that reflect the designer’s choice in layout, spacing, font, imagery, and color to the smallest detail is a requirement.
 
 ### Installation Instructions:
 
