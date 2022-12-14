@@ -13,6 +13,7 @@ h1 {
 
 h2 {
   margin: 2%;
+  font-size: 45px;
 }
 
 h3 {
@@ -23,6 +24,12 @@ h3 {
   display: flex;
   justify-content: flex-end;
   padding-right: 2%;
+}
+
+.arrow-icon {
+  height: 50px;
+  width: 50px;
+  padding-top: 65px;
 }
 
 .network-icon,
