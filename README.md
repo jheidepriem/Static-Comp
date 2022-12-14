@@ -8,7 +8,7 @@ The static comp challenge is a challenge to keep you working that HTML/CSS muscl
 - Basic site setup with index.html and styles.css
 - Create a repo on github
 
-### Preview of App: (View Here)[https://jheidepriem.github.io/Static-Comp/]
+### Preview of App: [View Here](https://jheidepriem.github.io/Static-Comp/)
 
 ![static-comp-challenge-2](https://user-images.githubusercontent.com/108428451/207728946-3987fe86-18ea-489d-bc8f-317bd4dafef0.jpeg)
 
