@@ -12,7 +12,7 @@ The static comp challenge is a challenge to keep you working that HTML/CSS muscl
 
 ![static-comp-challenge-2](https://user-images.githubusercontent.com/108428451/207728946-3987fe86-18ea-489d-bc8f-317bd4dafef0.jpeg)
 
-![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/108428451/207731615-3e55be54-d14b-4216-ac41-469ab2979743.gif)
+![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/108428451/207737392-d9da75ea-01db-4cd6-9480-36786240ff6e.gif)
 
 
 ### Contributors:
