@@ -7,45 +7,36 @@ body {
   text-transform: uppercase;
 }
 
-h2 {
-  margin: 2%;
+  h1 {
+  padding: 2%;
 }
+
+ h2 {
+  margin: 2%;
+} 
 
 h3 {
-  font-weight: 800;
-  margin: 0 3% 0 3%;
-  padding-top: 3%;
+  padding-left: 2%;
 }
 
-h4 {
-  font-size: 60%;
-  margin: 0.5%;
-}
 .top-of-navbar {
-  align-items: baseline;
-  display: flex;
   justify-content: flex-end;
+  display: flex;
   padding-right: 2%;
-}
-
-.arrow-icon {
-  height: 25px;
-  margin: 0 0% 2% 2%;
-  padding-top: 2%;
-  width: 25px;
 }
 
 .network-icon,
 .lines-icon,
 .square-icon {
-  height: 2vh;
+  height: 2.5vh;
   margin: 0 0% 2% 2%;
-  width: 2vw;
+  width: 1.5vw;
 }
 
-.house-icon {
-  padding-left: 65%;
-  padding-top: 10%;
+.house-image {
+  display: flex;
+  justify-content: flex-end;
+  width: 55vw;
 }
 
 .arrow3 {
@@ -60,35 +51,38 @@ h4 {
   display: flex;
   flex-direction: column;
   height: 20vh;
+  justify-content: flex-end;
 }
 
 .grid {
   background-color: #0a0908;
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(355px, auto));
+  grid-gap: 2%;
+  grid-template-columns: repeat(4, 1fr);
   height: 80%;
+  
 }
 
 .box {
   background-color: #eae0d5;
-  box-shadow: 0px 3px 15px rgba(124, 121, 121, 0.2);
   display: flex;
   flex-direction: column;
   margin: 6%;
+  cursor:pointer;
 }
 
-.admin-username,
+
 .nav-headers {
   align-items: baseline;
   background-color: #c6ac8f;
   display: flex;
   justify-content: flex-start;
-
+  width: 95vw;
 }
 
 .design-title {
   align-items: flex-end;
-  background-color: #c6ac8f;
+  background-color: #22333b;
   display: flex;
   height: 16vh;
 }
@@ -97,18 +91,20 @@ h4 {
   color: white;
   font-size: 45px;
   padding-left: 2%;
+  position: relative;
 }
 
 .contemporary-image,
 .industrial-image,
 .maximalist-image,
-.minimalist-image,
+.minimal-image,
 .modern-image,
 .rustic-image,
-.scandi-image {
+.scandi-image,
+.traditional-image {
   height: 43%;
   margin: 0;
-  opacity: 0.7;
+  opacity: 0.8;
   position: relative;
 }
 
@@ -122,11 +118,13 @@ h4 {
 }
 
 .date-text {
-  font-size: 50%;
-  margin: 0 3% 3% 3%;
+  font-size: 100%;
+  padding-left: 2%;
+  
 }
 
 .design-content {
+  font: 100%;
   margin: 3% 3% 0 3%;
 }
 
@@ -156,14 +154,14 @@ h4 {
 }
 
 .view-number {
-  color: white;
-  font-size: 53px;
-  font-weight: bolder;
   position: absolute;
-  margin-left: 12%;
-  padding: 1%;
+  font-size: 250%;
+  color: white;
+  font-weight: bolder;
+  margin-left: 10%;
   text-align: right;
-}
+  padding: 2%;
+  }
 
 .box-text {
   padding: 3%;
