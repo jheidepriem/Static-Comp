@@ -1,25 +1,58 @@
-* {
-  padding: 0;
-  margin: 0;
-  font-family: 'Montserrat', sans-serif;
-}
-
-.body {
+body {
   display: flex;
+  font-family: "Lora", serif;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 300;
   flex-direction: column;
+  text-transform: uppercase;
 }
 
-.arrow-icon,
+h2 {
+  margin: 2%;
+}
+
+h3 {
+  font-weight: 800;
+  margin: 0 3% 0 3%;
+  padding-top: 3%;
+}
+
+h4 {
+  font-size: 60%;
+  margin: 0.5%;
+}
+.top-of-navbar {
+  align-items: baseline;
+  display: flex;
+  justify-content: flex-end;
+  padding-right: 2%;
+}
+
+.arrow-icon {
+  height: 25px;
+  margin: 0 0% 2% 2%;
+  padding-top: 2%;
+  width: 25px;
+}
+
 .network-icon,
-.circle-icon
+.lines-icon,
 .square-icon {
-  height: 3%;
-  width: 3%;
-  margin: 0 0 4% 1%;
+  height: 2vh;
+  margin: 0 0% 2% 2%;
+  width: 2vw;
 }
 
-.arrow2 {
-  height: 10%;
+.house-icon {
+  padding-left: 65%;
+  padding-top: 10%;
+}
+
+.arrow3 {
+  height: 4%;
+  margin-left: 1%;
+  padding: 1%;
+  position: absolute;
 }
 
 .navigation-bar {
@@ -38,12 +71,100 @@
 
 .box {
   background-color: #eae0d5;
-  box-shadow: 0px 3px 15px rgba(0,0,0,0.2);
+  box-shadow: 0px 3px 15px rgba(124, 121, 121, 0.2);
   display: flex;
   flex-direction: column;
   margin: 6%;
 }
 
+.admin-username,
 .nav-headers {
+  align-items: baseline;
+  background-color: #c6ac8f;
+  display: flex;
+  justify-content: flex-start;
 
+}
+
+.design-title {
+  align-items: flex-end;
+  background-color: #c6ac8f;
+  display: flex;
+  height: 16vh;
+}
+
+.design-title2 {
+  color: white;
+  font-size: 45px;
+  padding-left: 2%;
+}
+
+.contemporary-image,
+.industrial-image,
+.maximalist-image,
+.minimalist-image,
+.modern-image,
+.rustic-image,
+.scandi-image {
+  height: 43%;
+  margin: 0;
+  opacity: 0.7;
+  position: relative;
+}
+
+.box-content {
+  font-weight: 800;
+  margin: 0 3% 3% 3%;
+}
+
+.photos-content {
+  margin: 9% 3% 0 3%;
+}
+
+.date-text {
+  font-size: 50%;
+  margin: 0 3% 3% 3%;
+}
+
+.design-content {
+  margin: 3% 3% 0 3%;
+}
+
+.number {
+  color: #22333b;
+  font-size: 250%;
+  margin: 0 4.5%;
+}
+
+.grid-title {
+  font-size: 300%;
+  font-weight: bold;
+  margin: 3%;
+}
+
+.link-box {
+  background-color: #f2f2eb;
+  display: flex;
+  justify-content: center;
+  padding: 10%;
+}
+
+.title {
+  font-size: 380%;
+  margin-left: 26%;
+  margin-bottom: 4%;
+}
+
+.view-number {
+  color: white;
+  font-size: 53px;
+  font-weight: bolder;
+  position: absolute;
+  margin-left: 12%;
+  padding: 1%;
+  text-align: right;
+}
+
+.box-text {
+  padding: 3%;
 }
